@@ -19,6 +19,11 @@
 ## Avisos
 
 
+**23/Fev/2021**
+
+- Foram adicionados novos enunciados de projetos LEI na diretoria [LabEI](LabEI).
+- Foi disponibilizado a apresentação utilizada na primeira aula da UC.
+
 **16/Fev/2021**
 
 - Criação do Github de acompanhamento às aulas de Engenharia de Segurança 2020/21
