@@ -31,12 +31,12 @@ Notas:
 
 ### 1.1 Tecnologia a determinar potencial de ataque
 
-+ Grupo X - Potencial de ataque à tecnologia de OTP (_One Time Password_) por SMS
-+ Grupo X - Potencial de ataque à tecnologia de assinatura qualificada com Cartão de Cidadão
-+ Grupo X - Potencial de ataque à tecnologia de assinatura qualificada com Chave Móvel Digital
-+ Grupo X - Potencial de ataque à tecnologia de identificação de pessoas físicas, através de procedimentos de identificação à distância com recurso a videoconferência
-+ Grupo X - Potencial de ataque à tecnologia de criação de assinaturas eletrónicas à distância, com gestão por um prestador qualificado de serviços de confiança em nome do signatário
-+ Grupo X - Potencial de ataque à tecnologia de identificação de pessoas físicas, através de procedimentos de identificação à distância com recurso a sistemas biométricos automáticos de reconhecimento facial
++ Grupo 1 - Potencial de ataque à tecnologia de OTP (_One Time Password_) por SMS
++ Grupo 5 - Potencial de ataque à tecnologia de assinatura qualificada com Cartão de Cidadão
++ Grupo 8 - Potencial de ataque à tecnologia de assinatura qualificada com Chave Móvel Digital
++ Grupo 10 - Potencial de ataque à tecnologia de identificação de pessoas físicas, através de procedimentos de identificação à distância com recurso a videoconferência
++ Grupo 12 - Potencial de ataque à tecnologia de criação de assinaturas eletrónicas à distância, com gestão por um prestador qualificado de serviços de confiança em nome do signatário
++ Grupo 14 - Potencial de ataque à tecnologia de identificação de pessoas físicas, através de procedimentos de identificação à distância com recurso a sistemas biométricos automáticos de reconhecimento facial
 
 
 ## 2. Projetos de tipo 2 - Sistema Gestão de Segurança de Informação
@@ -65,11 +65,11 @@ information security controls](https://trofisecurity.com/assets/img/ISO-IEC_2700
 
 Temas a analisar por grupo:
 
-+ Grupo X - Política de segurança de informação (_Information Security Policy_), Recursos humanos (_Human resources_), Gestão de incidentes (_Incident management_)
-+ Grupo X - Controlo de acessos (_Access control_)
-+ Grupo X - Segurança ambiental e física (_Physical and environmental security_), Controlos criptográficos (_Cryptographic controls_) 
-+ Grupo X - Segurança de operações (_Operation security_) - para grupo com 5 elementos, se existir
-+ Grupo X - Gestão de ativos (_Asset Management_), Gestão de continuidade de negócio (_Business continuity management_) 
++ Grupo 2 - Política de segurança de informação (_Information Security Policy_), Recursos humanos (_Human resources_), Gestão de incidentes (_Incident management_)
++ Grupo 6 - Controlo de acessos (_Access control_)
++ Grupo 9 - Segurança ambiental e física (_Physical and environmental security_), Controlos criptográficos (_Cryptographic controls_) 
++ Grupo 11 - Segurança de operações (_Operation security_) - para grupo com 5 elementos, se existir
++ Grupo 13 - Gestão de ativos (_Asset Management_), Gestão de continuidade de negócio (_Business continuity management_) 
 
 
 ## 3. Projetos de tipo 3 - Novo Cartão de Identidade europeu
@@ -103,7 +103,7 @@ concessão e emissão de passaportes.
 
 Tema a analisar por grupo:
 
-+ Grupo X 
++ Grupo 3 
 
 ## 4. Projetos de tipo 4 - Sistema de identificação eletrónica
 
@@ -125,8 +125,8 @@ O objetivo deste projeto é analisar o modelo de maturidade da ENISA e avaliar e
 
 Tema a analisar por grupo:
 
-+ Grupo X  - Cartão de Cidadão
-+ Grupo X - Chave Móvel Digital
++ Grupo 4  - Cartão de Cidadão
++ Grupo 7 - Chave Móvel Digital
 
 
 Notas: 

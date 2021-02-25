@@ -19,6 +19,11 @@
 ## Avisos
 
 
+**25/Fev/2021**
+
+- Foram disponibilizados os trabalhos de prática 2 referentes ao [Projeto de Análise (PA)](Pratica2/PA.md).
+
+
 **23/Fev/2021**
 
 - Foram adicionados novos enunciados de projetos LEI na diretoria [LabEI](LabEI).
