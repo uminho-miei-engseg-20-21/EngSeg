@@ -16,7 +16,7 @@
 + Para se juntarem ao canal, sigam <https://join.slack.com/t/engenhariadeseguranca/shared_invite/zt-mdaesqr9-X~RoVrW79HSLhFCKY~XdVw> (link expira a 15 de Março).
 
 
-## Avisos
+## Avisos 
 
 
 **25/Fev/2021**
