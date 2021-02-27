@@ -16,6 +16,25 @@
 + Para se juntarem ao canal, sigam <https://join.slack.com/t/engenhariadeseguranca/shared_invite/zt-mdaesqr9-X~RoVrW79HSLhFCKY~XdVw> (link expira a 15 de Março).
 
 
+## Horário de acompanhamento
+
+Os grupos de trabalho têm o seguinte horário de acompanhamento todas as 3ªs feiras:
+
++ Grupo 1 - 14h00
++ Grupo 2 - 14h15
++ Grupo 3 - 14h30
++ Grupo 4 - 14h45
++ Grupo 5 - 15h00
++ Grupo 6 - 15h15
++ Grupo 7 - 15h30
++ Grupo 8 - 15h45
++ Grupo 9 - 16h00
++ Grupo 10 - 16h15
++ Grupo 11 - 16h30
++ Grupo 12 - 16h45
+
+De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar na sala Zoom de aulas (divulgada no blackboard da UC), cerca de 5 minutos antes do início da sua reunião de acompanhamento. Para que a reunião decorra do melhor modo, deverão também já ter planeado os pontos que querem abordar, tanto referente às aulas [teóricas](slides), [fichas de trabalho](Pratica1) ou [projetos de avaliação prática](Pratica2).
+
 ## Avisos 
 
 
