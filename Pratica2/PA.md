@@ -7,6 +7,11 @@ A apresentação e discussão do trabalho será posteriormente marcada em data/h
 
 O objetivo deste projeto é identificar o potencial de ataque estimado, necessário para efetuar ataque a determinada tecnologia, de acordo com a metodologia de avaliação do [Common Criteria](https://www.commoncriteriaportal.org/cc/) / ISO IEC 15408.
 
+Não necessita de ter conhecimentos sobre o Common Criteria, mas se tiver curiosidade pode ver as seguintes apresentações:
+
++ <https://www.youtube.com/watch?v=ceg4hyrcHJc> - apresentação sucinta, menos técnica (recomendada);
++ <https://www.youtube.com/watch?v=PSAlyxhaf5c> - apresentação extensa, muito técnica.
+
 
 O método de trabalho proposto é identificar vários cenários de ataque à tecnologia, baseado em riscos identificados, destacando a(s) vulnerabilidade(s) explorada(s) e a estimativa do potencial de ataque que é necessário para realizar os ataques.
 
@@ -44,6 +49,12 @@ Notas:
 A [família de standards ISO/IEC 27000](https://en.wikipedia.org/wiki/ISO/IEC_27000-series) (ou ISO27K) é constituída por standards de segurança de informação publicados conjuntamente pela _International Organization for Standardization_ (ISO) e pela _International Electrotechnical Commission_ (IEC). 
 
 Esta família de standards fornece recomendações de melhores práticas para gestão de segurança de informação, no contexto integrado de um Sistema de Gestão de Segurança de Informação (SGSI) - _Information security management system_ (ISMS) -. O seu âmbito é vasto, sendo aplicável a todo o tipo de entidades, independentemente do seu tamanho. 
+
+Caso tenha curiosidade sobre esta família de standards, recomenda-se que veja:
+
++ <https://www.youtube.com/watch?v=C4xm33_bqFg> (em espanhol);
++ os vários episódios da série da Clearsec, que começam em <https://www.youtube.com/watch?v=0gzjTD1tdOw> (em francês, com legendas em inglês);
++ <https://www.youtube.com/watch?v=ltEEZLOUP90> (em inglês).
 
 A [Comissão Técnica _Electronic Signatures and Infrastructures_ (ESI) do ETSI](https://www.etsi.org/committee/esi) publica standards europeus no âmbito das assinaturas digitais e serviços de confiança relacionados (em especial, no contexto do [Regulamento eIDAS](https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=CELEX:32014R0910&from=ga) - Regulamento (UE) n.o 910/2014 do Parlamento Europeu e do Conselho
 de 23 de julho de 2014

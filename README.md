@@ -38,6 +38,16 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 ## Avisos 
 
 
+**28/Fev/2021**
+
+- Foi publicado o video da aula 2, em [videos_aulas](videos_aulas).
+- Foi publicada a ficha de trabalho da aula 2, em [Pratica1](Pratica1).
+
+**27/Fev/2021**
+
+- Foi publicado o horário de acompanhamento dos Grupos de Trabalho.
+
+
 **25/Fev/2021**
 
 - Foram disponibilizados os trabalhos de prática 2 referentes ao [Projeto de Análise (PA)](Pratica2/PA.md).
