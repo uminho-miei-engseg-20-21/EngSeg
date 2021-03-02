@@ -12,6 +12,7 @@ Note que os exercícios devem ser efetuados numa máquina Linux.
 
 Execute o seguinte comando, que gera 1024 bytes pseudoaleatórios: `openssl rand -base64 1024`
 
+
 #### Pergunta P1.1
 
 Teste os seguintes comandos, que vão obter 1024 bytes pseudoaleatórios do sistema e os apresentam em base64:
@@ -22,6 +23,12 @@ Teste os seguintes comandos, que vão obter 1024 bytes pseudoaleatórios do sist
 - `head -c 1024 /dev/urandom | openssl enc -base64`
 
 Que conclusões pode tirar? Em que se baseia para essas conclusões ?
+
+> Nota: Após algumas questões levantadas pelos alunos, pelo facto do `head -c 1024 /dev/random | openssl enc -base64` não bloquear até existir entropia suficiente, estive a rever este assunto, e:
+>
+> - Desde 2020, Linux kernel version 5.6 e superior, o /dev/random só bloqueia quando (ou enquanto) o CPRNG (_cryptographic pseudorandom number generator_) não foi inicializado. Após ter sido inicializado, o [/dev/random e /dev/urandom têm o mesmo comportamento](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.6-Random-Rework).
+> - Discussão sobre a remoção do bloqueio ao /dev/random pode ser lida [aqui](https://lwn.net/Articles/808575/).
+> - Para quem quiser testar o funcionamento pré-kernel 5.6, pode utilizar [esta máquina virtual](https://meocloud.pt/link/f188f15b-7145-4e11-b59e-6a64f61084a6/CSI.EngSeg.ova/).
 
 #### Pergunta P1.2
 

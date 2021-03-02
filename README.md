@@ -4,7 +4,7 @@
 
 - [Pratica1](Pratica1) - fichas de trabalho (avaliação prática 1) sobre tema da aula teórica , disponibilizadas semanalmente antes do dia da aula.
 - [Pratica2](Pratica2) - enunciados dos projetos de avaliação prática 2, nomeadamente:
-    - PA – Projeto análise de um tema, com elaboração de relatório, assim como exposição do trabalho, com entrega de relatório até 23/03/2021.
+    - PA – Projeto análise de um tema, com elaboração de relatório, assim como exposição do trabalho, com entrega de relatório até 30/03/2021.
     - PD – Projeto de desenvolvimento, com entrega final até 15/06/2021.
 - [slides](slides) - contém os slides de apoio às aulas teóricas.
 - [videos_aulas](videos_aulas) - Vídeo da aula teórica.
