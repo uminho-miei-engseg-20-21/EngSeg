@@ -28,7 +28,10 @@ Que conclusões pode tirar? Em que se baseia para essas conclusões ?
 >
 > - Desde 2020, Linux kernel version 5.6 e superior, o /dev/random só bloqueia quando (ou enquanto) o CPRNG (_cryptographic pseudorandom number generator_) não foi inicializado. Após ter sido inicializado, o [/dev/random e /dev/urandom têm o mesmo comportamento](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.6-Random-Rework).
 > - Discussão sobre a remoção do bloqueio ao /dev/random pode ser lida [aqui](https://lwn.net/Articles/808575/).
-> - Para quem quiser testar o funcionamento pré-kernel 5.6, pode utilizar [esta máquina virtual](https://meocloud.pt/link/f188f15b-7145-4e11-b59e-6a64f61084a6/CSI.EngSeg.ova/).
+> - Para quem quiser testar o funcionamento pré-kernel 5.6, pode utilizar [esta máquina virtual](https://meocloud.pt/link/f188f15b-7145-4e11-b59e-6a64f61084a6/CSI.EngSeg.ova/), que tem definido os seguintes utilizador / password: 
+>   + user / user
+>   + root / root
+>
 
 #### Pergunta P1.2
 
