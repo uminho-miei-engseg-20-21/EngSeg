@@ -25,3 +25,22 @@ Ficha de trabalho incidindo sobre:
 -   Secret sharing;
 -   Authenticated encryption;
 -   Algoritmos e tamanho de chaves.
+
+## Semana 3 - 09/Mar/2021
+
+
+**Teórica**:
+
+-   Assinaturas cegas (blind signatures)
+-   Protocolos/aplicações criptográficas
+    -   SSL/TLS
+    -   SSH
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Assinaturas cegas
+-   SSL/TLS
+-   SSH
+
