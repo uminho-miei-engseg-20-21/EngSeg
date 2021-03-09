@@ -72,7 +72,7 @@ Notas:
 
 Os temas a analisar e relacionar serão entre o [ETSI EN 319 401 v.2.2.1 - Electronic Signatures and Infrastructures (ESI); General Policy Requirements for Trust Service Providers](https://www.etsi.org/deliver/etsi_en/319400_319499/319401/02.02.01_30/en_319401v020201v.pdf) e o [ISO/IEC 27002:2013 - Information technology — Security
 techniques — Code of practice for
-information security controls](https://trofisecurity.com/assets/img/ISO-IEC_27002-.pdf).
+information security controls](https://trofisecurity.com/assets/img/ISO-IEC_27002-.pdf). Se o link para o ISO 27002 não esiver ativo, podem encontrar o documento [aqui](ISO27002_2013.pdf).
 
 Temas a analisar por grupo:
 
