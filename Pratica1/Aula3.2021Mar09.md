@@ -10,7 +10,7 @@ Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na á
 
 Para este ponto necessita de:
 
-+ Instalar o módulo eVotUM.Cripto a partir da [branch develop](https://gitlab.com/eVotUM/Cripto-py/-/tree/develop) - este _branch_ já é _compliant_ com o Python 3 -.
++ Instalar o módulo eVotUM.Cripto a partir da [branch develop](https://gitlab.com/eVotUM/Cripto-py/-/tree/develop) - este _branch_ já é _compliant_ com o Python 3 -. Para o instalar poderá efetuar o comando `git clone -b develop git@gitlab.com:eVotUM/Cripto-py.git`.
 +  Copiar os ficheiros em [Aula3](Aula3) para a sua máquina. 
 
 Nota: A descrição detalhada da técnica de assinatura cega que é utilizada neste exercício encontra-se neste [paper](Aula3/ECDLP.blind_signature.pdf)
