@@ -37,10 +37,18 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**07/Mar/2021**
+
+- Foi publicado o video da aula 4, em [videos_aulas](videos_aulas).
+- Foi publicada a apresentação da aula 4, em [slides](slides).
+- Foi publicada a ficha de trabalho da aula 4, em [Pratica1](Pratica1).
+
+
 
 **07/Mar/2021**
 
 - Foi publicado o video da aula 3, em [videos_aulas](videos_aulas).
+- Foi publicada a apresentação da aula 3, em [slides](slides).
 - Foi publicada a ficha de trabalho da aula 3, em [Pratica1](Pratica1).
 
 
@@ -48,6 +56,7 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 **28/Fev/2021**
 
 - Foi publicado o video da aula 2, em [videos_aulas](videos_aulas).
+- Foi publicada a apresentação da aula 2, em [slides](slides).
 - Foi publicada a ficha de trabalho da aula 2, em [Pratica1](Pratica1).
 
 **27/Fev/2021**

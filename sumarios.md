@@ -44,3 +44,20 @@ Ficha de trabalho incidindo sobre:
 -   SSL/TLS
 -   SSH
 
+
+## Semana 4 - 16/Mar/2021
+
+
+**Teórica**:
+
+-   Protocolos/aplicações criptográficas
+    -   TOR (_The Onion Router_)
+    -   Voto eletrónico
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   TOR
+
