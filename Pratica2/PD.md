@@ -83,7 +83,7 @@ Todas estas novas características devem alterar o mínimo o código fonte exist
 
 Com este projeto pretende-se obter uma plataforma para emissão de certificados de teste, que também emita CRL, timestamps e disponibilize o serviço OCSP. Adicionalmente deve ter um interface web para os utilizadores, que os permita autenticar, emitir certificados nas hierarquia configuradas, aceder aos seus certificados (certificados até à raiz da hierarquia de confiança) e chaves, e validar se os certificados ainda estão válidos (no CRL e OCSP), assim como obter e validar timestamps.
 
-As hierarquias configuradas devem ser as do Cartão de Cidadão e da Chave Móvel Digital, devendo permitir emitir certificados de autenticação (do Cartão de Cidadão) e assinatura (do Cartão de Cidadão e Chave Móvel Digital), conforme perfis de certificado identificados em <http://pki.cartaodecidadao.pt>.
+As hierarquias configuradas devem ser similares às do Cartão de Cidadão e da Chave Móvel Digital, devendo permitir emitir certificados de autenticação (do Cartão de Cidadão) e assinatura (do Cartão de Cidadão e Chave Móvel Digital), de acordo com os perfis de certificado identificados em <http://pki.cartaodecidadao.pt>.
 
 ### 2.1 Baseado em linha de comando openssl
 
@@ -124,7 +124,7 @@ Neste projeto a componente de emissão de certificados, CRL e OCSP deve ser base
 
 **Projeto a efetuar por Grupo 1.**
 
-Existem inúmeras [comissões técnicas de normalização](http://www1.ipq.pt/PT/Normalizacao/ComissoesTecnicas/Pages/CT.aspx) que produzem standards e acompanham comissões técnicas do [CEN](https://www.cen.eu/Pages/default.aspx) e da [ISO](https://www.iso.org/home.html). 
+Existem inúmeras [comissões técnicas de normalização nacionais](http://www1.ipq.pt/PT/Normalizacao/ComissoesTecnicas/Pages/CT.aspx) que produzem standards e acompanham comissões técnicas do [CEN](https://www.cen.eu/Pages/default.aspx) e da [ISO](https://www.iso.org/home.html). 
 
 As comissões técnicas do CEN e da ISO estão subdividas em subgrupos, que produzem dezenas/centenas de documentos que têm de ser disponibilizados aos especialistas das comissões técnicas portuguesas. 
 
@@ -133,10 +133,12 @@ Pretende-se com este projeto gerir o acesso aos documentos disponibilizados, sen
 Adicionalmente pretende-se que a partir dos documentos disponibilizados seja possível gerar informação pesquisável, que permita aceder de uma forma mais célere e sistematizada aos diversos documentos, conforme exemplo na próxima imagem.
 
 ![Exemplo de acesso aos documentos](PD.Proj3.1.jpg)
+Toda a informação apresentada na imagem pode ser retirada da primeira página dos documentos, conforme [documento de exemplo](PD.Proj3.2.pdf).
+
 
 Note que os documentos vão sendo disponibilizados à medida que vão sendo finalizados pelas comissões técnicas, pelo que é necessário permitir adicionar novos documentos à plataforma. 
 
-Como existem inúmeras comissões técnicas e membros que pertencem a uma ou mais comissão técnica, é necessário efetuar a gestão das mesmos.
+Como existem inúmeras comissões técnicas e membros que pertencem a uma ou mais comissões técnicas, é necessário efetuar a gestão das mesmos.
 
 
 ## 4. Projetos de tipo 4 - Plataforma de gestão de inventário
