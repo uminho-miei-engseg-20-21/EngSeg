@@ -37,7 +37,12 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
-**07/Mar/2021**
+**15/Mar/2021**
+
+- Foram disponibilizados os trabalhos de prática 2 referentes ao [Projeto de Desenvolvimento (PD)](Pratica2/PD.md).
+
+
+**13/Mar/2021**
 
 - Foi publicado o video da aula 4, em [videos_aulas](videos_aulas).
 - Foi publicada a apresentação da aula 4, em [slides](slides).

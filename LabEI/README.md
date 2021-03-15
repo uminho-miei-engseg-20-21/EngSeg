@@ -27,3 +27,8 @@
 + A84727,
 + A83819.
 
+## 5. Assinatura remota empresarial
+
++ PG42819,
++ A80749
+
