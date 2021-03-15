@@ -1,6 +1,7 @@
 # Avaliação prática 2 - Projeto de desenvolvimento (PD)
 
-De seguida são apresentados os vários projetos de desenvolvimento. O relatório final deverá ser colocado na área do Grupo no github até ao dia 15/06/2021, na subdiretoria "AP2-PD".
+De seguida são apresentados os vários projetos de desenvolvimento. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 15/06/2021, na subdiretoria "AP2-PD". Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux).
+
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 
 Note que o projeto de desenvolvimento, para além do desenvolvimento em si, inclui componentes de:
