@@ -41,8 +41,7 @@ O que pode concluir em relação à utilização destes controlos no projeto de 
 
 Nota: Pode encontrar o ISO/IEC 27002:2013 [aqui][c7520f71].
 
-  [c7520f71]: http://www.smartassessor.com/Uploaded/1/Documents/ISO-2017-standard.pdf "ISO/IEC 27002:2013"
-
+  [c7520f71]: ../Pratica2/ISO27002_2013.pdf "ISO/IEC 27002:2013"
 
 #### Pergunta P1.3
 
