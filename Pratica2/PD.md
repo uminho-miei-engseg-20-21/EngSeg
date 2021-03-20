@@ -22,6 +22,10 @@ O objetivo destes projetos de desenvolvimento não é aprender a programar (esse
 + Seguir o standard de verificação de segurança de aplicações ([OWASP _Application Security Verification Standard_](https://github.com/OWASP/ASVS)), no desenvolvimento do projeto;
 + Utilizar [ferramentas de análise de impacto da proteção de dados](https://www.cnil.fr/en/privacy-impact-assessment-pia) (PIA - _Privacy Impact Assessment_), de modo a demonstrar compliance com o RGPD (Regulamento Geral de Proteção de Dados).
 
+Na aula 5 foi pedido para:
+
++ Utilizar o ciclo de melhoria contínua do SAMM, aplicada ao projeto de desenvolvimento de software que o seu grupo está a desenvolver. A resposta às perguntas da secção 2 da ficha de trabalho dessa aula, para além de serem respondidas no âmbito da ficha de trabalho, devem também ser adicionadas como anexo ao relatório do projeto de desenvolvimento;
++ Seguir as fases do [Microsoft _Security Development Lifecycle_ (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl) que forem relevantes para o seu projeto de desenvolvimento, indicando (no relatório do projeto de desenvolvimento) o que foi feito em relação a cada uma delas.
 
 ## 1. Projetos de tipo 1 - Utilização/integração de ferramentas disponibilizadas no âmbito do Digital Signature Services (DSS)
 
