@@ -1,6 +1,6 @@
 # Aula TP - 23/Mar/2021
 
-Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na área do seu grupo no Github até ao final do dia 06/Abr/2021\. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
+Cada grupo deve colocar a resposta às perguntas dos seguintes exercícios na área do seu grupo no Github até ao final do dia 13/Abr/2021\. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
 A resposta às perguntas da secção 2, devem também ser adicionadas como anexo ao relatório do seu projeto de desenvolvimento (no âmbito da avaliação prática 2).
 
