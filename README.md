@@ -37,6 +37,13 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**05/Abr/2021**
+
+- Foi publicado o video da aula 6, em [videos_aulas](videos_aulas).
+- Foi publicada a apresentação da aula 6, em [slides](slides).
+- Foi publicada a ficha de trabalho da aula 6, em [Pratica1](Pratica1).
+
+
 
 **20/Mar/2021**
 

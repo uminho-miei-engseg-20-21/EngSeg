@@ -79,6 +79,22 @@ Ficha de trabalho incidindo sobre:
 
 Ficha de trabalho incidindo sobre:
 
--   Secure Software Development Lifecycle (S-SDLC)
+- Secure Software Development Lifecycle (S-SDLC)
 - Modelo de Maturidade no projeto de desenvolvimento de Software
+
+## Semana 6 - 06/Abr/2021
+
+**Teórica**:
+
+- Protocolos/aplicações criptográficas
+    - Blockchain
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- Blockchain
+
+
 
