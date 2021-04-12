@@ -97,4 +97,21 @@ Ficha de trabalho incidindo sobre:
 - Blockchain
 
 
+## Semana 7 - 13/Abr/2021
+
+**Teórica**:
+
+-   Segurança de software
+    -   Conceitos
+    -   Vulnerabilidades
+    -   Desenvolvimento de software seguro
+
+- Boas práticas de desenvolvimento de software
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de codificação
+
 

@@ -43,6 +43,8 @@ Nota: Pode encontrar o ISO/IEC 27002:2013 [aqui][c7520f71].
 
   [c7520f71]: ../Pratica2/ISO27002_2013.pdf "ISO/IEC 27002:2013"
 
+> A resposta a esta pergunta, para além de ser respondidas no âmbito desta ficha de trabalho, deve também ser adicionadas como anexo ao relatório do seu projeto de desenvolvimento (no âmbito da avaliação prática 2).
+
 #### Pergunta P1.3
 
 Esta pergunta deve ser respondida pelos grupos com número ímpar.
@@ -53,6 +55,8 @@ dos EUA a integrar as componentes de segurança IT nos sistemas de desenvolvimen
 Analise a secção 2.3 (_Key Roles and Responsibilities in the SDLC_). O que pode concluir em relação às funções e responsabilidades de segurança no SDLC, se comparar com o projeto de desenvolvimento de software que o seu grupo está a desenvolver (no âmbito da avaliação prática 2)?
 
 Nota: Pode encontrar o NIST Special Publication (SP) 800-64 na diretoria [Aula5](Aula5/10.nistspecialpublication800-64r2.pdf).
+
+> A resposta a esta pergunta, para além de ser respondidas no âmbito desta ficha de trabalho, deve também ser adicionadas como anexo ao relatório do seu projeto de desenvolvimento (no âmbito da avaliação prática 2).
 
 
 ### 2. SAMM (_Software Assurance Maturity Model_)

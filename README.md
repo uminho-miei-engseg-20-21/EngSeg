@@ -37,6 +37,13 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**11/Abr/2021**
+
+- Foi publicado o video da aula 7, em [videos_aulas](videos_aulas).
+- Foi publicada a apresentação da aula 7, em [slides](slides).
+- Foi publicada a ficha de trabalho da aula 7, em [Pratica1](Pratica1).
+
+
 **05/Abr/2021**
 
 Depois de ter falado com todos os grupos, a apresentação do trabalho PA que entregaram no passado dia 30, será efetuada na semana de 20/Abril, se possível na aula de 20 de Abril, no horário de acompanhamento.
