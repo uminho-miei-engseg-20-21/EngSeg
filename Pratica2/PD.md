@@ -37,6 +37,20 @@ O código fonte do DSS encontra-se disponível no [repositório Bitbucket do DSS
 
 Também são disponibilizadas várias aplicações de demonstração da utilização do DSS, que pode encontrar no [repositório Bitbucket do DSS](https://ec.europa.eu/cefdigital/code/projects/ESIG/repos/dss-demos/browse) e, no github em <https://github.com/esig/dss-demonstrations>.
 
+> Notas: 
+>
+> + O servidor de timestamp do Cartão de Cidadão encontra-se disponível em <http://ts.cartaodecidadao.pt/tsa/server>, estando o formato de pedido e de resposta de selo temporal de acordo com os formatos indicados no ETSI EN 319 4225 e IETF RFC 3161.
+> + Um dos modos de se configurar o servidor de timestamp no DSS (notem que a estratégia seguida pela WebApp pode ser diferente) é através do seguinte código:
+>
+```java
+// Set the Timestamp source (Cartão do Cidadão)
+OnlineTSPSource onlineTSPSource = new OnlineTSPSource("http://ts.cartaodecidadao.pt/tsa/server");
+// Allows setting an implementation of `DataLoader` interface,
+// processing a querying of a remote TSP server.
+onlineTSPSource.setDataLoader(new CommonsDataLoader("application/timestamp-query"));
+```
+
+
 ### 1.1 DSS Demo WebApp 1
 
 **Projeto a efetuar por Grupo 2.**
