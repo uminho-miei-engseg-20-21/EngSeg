@@ -37,6 +37,11 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**16/Abr/2021**
+
+No dia 20 de Abril será efetuada a entrega do trabalho PA, pelo que na próxima semana não vai existir publicação de novo video / apresentação / ficha de trabalho.
+
+
 **11/Abr/2021**
 
 - Foi publicado o video da aula 7, em [videos_aulas](videos_aulas).

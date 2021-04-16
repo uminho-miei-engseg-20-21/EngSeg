@@ -115,3 +115,7 @@ Ficha de trabalho incidindo sobre:
 -   Vulnerabilidade de codificação
 
 
+## Semana 8 - 20/Abr/2021
+
+Apresentação do Projeto de Análise (PA) efetuado pelos Grupos de Trabalho.
+
