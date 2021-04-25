@@ -82,7 +82,6 @@ O _ARTICLE 29 DATA PROTECTION WORKING PARTY_ publicou o [_Guidelines on Data Pro
 
 1. Identifique os nove critérios
 2. Verifique como é que o PD (projeto de desenvolvimento, no âmbito da avaliação prática 2) que está a efetuar para esta UC se enquadra nesses nove critérios.
-3. Preencha o [template DPIA](Aula9/ICO.dpia-template.pdf) (obtido de <https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/>) para o seu PD (pode preencher em português).
 
 > A resposta a esta pergunta, para além de ser respondidas no âmbito desta ficha de trabalho, deve também ser adicionada como anexo ao relatório do seu projeto de desenvolvimento (no âmbito da avaliação prática 2).
 
@@ -91,19 +90,18 @@ O _ARTICLE 29 DATA PROTECTION WORKING PARTY_ publicou o [_Guidelines on Data Pro
 O CNIL (_Commission Nationale de l'Informatique et des Libertés_) disponibilizou uma ferramenta open-source para ajudar no _Data Protection Impact Assessment_ (DPIA) em <https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment>.
 
 1. Instale a ferramenta (disponível para Linux, Windows e MacOS) que se encontra em <https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment>
-2. Utilize a ferramenta para o DPIA do seu PD (projeto de desenvolvimento, no âmbito da avaliação prática 2), preenchendo sucintamente (pode preencher em português) todas as componentes pedidas.
+2. Utilize a ferramenta para o DPIA do seu PD (projeto de desenvolvimento, no âmbito da avaliação prática 2), preenchendo sucintamente (pode preencher em português) todas as componentes pedida, indicando como o seu projeto responde aos vários requisitos.
 3. No final do preenchimento e validação, vá ao dashboard e escolha a apresentação em lista, selecione "_Display PIA_" e imprima para ficheiro PDF que coloca no github como resposta a esta pergunta.
 
 > A resposta a esta pergunta, para além de ser respondidas no âmbito desta ficha de trabalho, deve também ser adicionada como anexo ao relatório do seu projeto de desenvolvimento (no âmbito da avaliação prática 2).
 
-#### Pergunta P1.3
-
-Tendo utilizado o template DPIA (pergunta P1.1) e a ferramenta DPIA do CNIL (pergunta P1.2) conclua sobre qual a que melhor se adapta ao seu projeto, assim como as vantagens e desvantagens que percepcionou na utilização de ambas as "ferramentas".
-
-> A resposta a esta pergunta, para além de ser respondidas no âmbito desta ficha de trabalho, deve também ser adicionada como anexo ao relatório do seu projeto de desenvolvimento (no âmbito da avaliação prática 2).
-
-
 #### Experiência 1.5
+
+1. Responda à mesma pergunta do exercício anterior, mas em vez da ferramenta da CNIL, utilize o [template DPIA](Aula9/ICO.dpia-template.pdf) (obtido de <https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/>).
+2. Tendo utilizado o template DPIA e a ferramenta DPIA do CNIL (pergunta P1.2), conclua sobre qual a que melhor se adapta ao seu projeto, assim como as vantagens e desvantagens que percepcionou na utilização de ambas as "ferramentas".
+
+
+#### Experiência 1.6
 
 A ENISA (_European Union Agency for Network and Information Security_) tem feito um trabalho relevante na produção de documentação relevante para a proteção de dados.
 
@@ -121,7 +119,7 @@ Caso de uso a avaliar:
 + Suppliers of services and goods - Grupos 6, 12
 
 
-#### Experiência 1.6
+#### Experiência 1.7
 
 A ENISA (_European Union Agency for Network and Information Security_) tem feito um trabalho relevante na produção de documentação relevante para a proteção de dados.
 

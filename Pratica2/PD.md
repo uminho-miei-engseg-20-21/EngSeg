@@ -31,9 +31,8 @@ Na segunda parte da aula 7 (<https://vm4.devisefutures.com/EngSeg2021/2021.Aula7
 
 Na aula 9 foi pedido para:
 
-+ Avaliar como o seu projeto de desenvolvimento de software se enquadra nos nove critérios que devem ser considerados para avaliar se o processamento de dados pessoais resulta num risco elevado, assim como preencher o template DPIA.
++ Avaliar como o seu projeto de desenvolvimento de software se enquadra nos nove critérios que devem ser considerados para avaliar se o processamento de dados pessoais resulta num risco elevado.
 + Utilizar a ferramenta DPIA do CNIL, no contexto do seu projeto de desenvolvimento de software.
-+ Concluir sobre a utilização do template DPIA vs a ferramenta DPIA do CNIL.
 
 ## 1. Projetos de tipo 1 - Utilização/integração de ferramentas disponibilizadas no âmbito do Digital Signature Services (DSS)
 

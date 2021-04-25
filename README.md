@@ -37,6 +37,13 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**25/Abr/2021**
+
+- Foi publicado o video da aula 9, em [videos_aulas](videos_aulas).
+- Foi publicada a apresentação da aula 9, em [slides](slides).
+- Foi publicada a ficha de trabalho da aula 9, em [Pratica1](Pratica1).
+
+
 **16/Abr/2021**
 
 No dia 20 de Abril será efetuada a entrega do trabalho PA, pelo que na próxima semana não vai existir publicação de novo video / apresentação / ficha de trabalho.
