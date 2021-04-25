@@ -119,3 +119,16 @@ Ficha de trabalho incidindo sobre:
 
 Apresentação do Projeto de Análise (PA) efetuado pelos Grupos de Trabalho.
 
+
+## Semana 9 - 27/Abr/2021
+
+**Teórica**:
+
+-   RGPD (Regulamento Geral de Proteção de Dados) - visão técnica, e suas consequências para a Engenharia de Segurança e Desenvolvimento de Software.
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   RGPD,
+- Data Protection Impact Assessment (DPIA).

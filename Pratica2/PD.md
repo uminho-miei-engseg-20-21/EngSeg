@@ -29,6 +29,12 @@ Na aula 5 foi pedido para:
 
 Na segunda parte da aula 7 (<https://vm4.devisefutures.com/EngSeg2021/2021.Aula7.2.mp4>) é dada mais alguma informação sobre as práticas do [Microsoft _Security Development Lifecycle_ (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl), e quais as práticas mais importantes para que devem olhar (e incluir no relatório do projeto de desenvolvimento).
 
+Na aula 9 foi pedido para:
+
++ Avaliar como o seu projeto de desenvolvimento de software se enquadra nos nove critérios que devem ser considerados para avaliar se o processamento de dados pessoais resulta num risco elevado, assim como preencher o template DPIA.
++ Utilizar a ferramenta DPIA do CNIL, no contexto do seu projeto de desenvolvimento de software.
++ Concluir sobre a utilização do template DPIA vs a ferramenta DPIA do CNIL.
+
 ## 1. Projetos de tipo 1 - Utilização/integração de ferramentas disponibilizadas no âmbito do Digital Signature Services (DSS)
 
 A União Europeia disponibiliza uma biblioteca de software _open-source_ ([_Digital Signature Services_ - DSS](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Start+using+Digital+Signature+Services+-+DSS)) para a criação e validação de assinaturas eletrónicas, em linha com o Regulamento eIDAS e standards relacionados.
