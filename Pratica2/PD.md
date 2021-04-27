@@ -122,7 +122,7 @@ As hierarquias configuradas devem ser similares às do Cartão de Cidadão e da 
 > + certificado da EC de Chave Móvel Digital - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CMDA_36_signed.pdf>
 > + certificado de autenticação do cidadão - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0011_pt_AuC.pdf>
 > + certificado de assinatura qualificada do cidadão - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0009_pt_AsC.pdf>
-> + certificado de assinatura qualificada CMD do cidadão - https://pki.cartaodecidadao.pt/publico/politicas/PJ.CMDA_34_signed.pdf
+> + certificado de assinatura qualificada CMD do cidadão - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CMDA_34_signed.pdf>
 
 ### 2.1 Baseado em linha de comando openssl
 
