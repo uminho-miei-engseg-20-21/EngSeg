@@ -110,6 +110,20 @@ Com este projeto pretende-se obter uma plataforma para emissão de certificados 
 
 As hierarquias configuradas devem ser similares às do Cartão de Cidadão e da Chave Móvel Digital, devendo permitir emitir certificados de autenticação (do Cartão de Cidadão) e assinatura (do Cartão de Cidadão e Chave Móvel Digital), de acordo com os perfis de certificado identificados em <http://pki.cartaodecidadao.pt>.
 
+> Nota 1: A hierarquia do Cartão de Cidadão e da Chave Móvel Digital estão representadas na seguinte figura:
+>
+> ![Hierarquia do Cartão de Cidadão e da Chave Móvel Digital](PD.hierarquiaCC.jpg)
+
+> Nota 2: Os perfis de certificados estão identificados nos seguintes documentos:
+>
+> + certificado auto-assinado da EC do Cartão de Cidadão - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0001_pt_Root.pdf>
+> + certificado da EC de Autenticação - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0003_pt_Root.pdf>
+> + certificado da EC de Assinatura Qualificada - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0002_pt_Root.pdf>
+> + certificado da EC de Chave Móvel Digital - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CMDA_36_signed.pdf>
+> + certificado de autenticação do cidadão - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0011_pt_AuC.pdf>
+> + certificado de assinatura qualificada do cidadão - <https://pki.cartaodecidadao.pt/publico/politicas/PJ.CC_24.1.2_0009_pt_AsC.pdf>
+> + certificado de assinatura qualificada CMD do cidadão - https://pki.cartaodecidadao.pt/publico/politicas/PJ.CMDA_34_signed.pdf
+
 ### 2.1 Baseado em linha de comando openssl
 
 **Projeto a efetuar por Grupo 10.**
