@@ -34,6 +34,8 @@ Na aula 9 foi pedido para:
 + Avaliar como o seu projeto de desenvolvimento de software se enquadra nos nove critérios que devem ser considerados para avaliar se o processamento de dados pessoais resulta num risco elevado.
 + Utilizar a ferramenta DPIA do CNIL, no contexto do seu projeto de desenvolvimento de software.
 
+Na aula 10 falou-se sobre vulnerabilidade de _Buffer overflow_ e sobre vulnerabilidade de inteiros, e em cada uma das partes dessa aula foram indicadas regras de programação defensiva para reduzir essas vulnerabilidades. Notem que é esperado que no relatório deste PD identifiquem como enquadraram essas regras no  desenvolvimento do projeto.
+
 ## 1. Projetos de tipo 1 - Utilização/integração de ferramentas disponibilizadas no âmbito do Digital Signature Services (DSS)
 
 A União Europeia disponibiliza uma biblioteca de software _open-source_ ([_Digital Signature Services_ - DSS](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Start+using+Digital+Signature+Services+-+DSS)) para a criação e validação de assinaturas eletrónicas, em linha com o Regulamento eIDAS e standards relacionados.

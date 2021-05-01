@@ -132,3 +132,20 @@ Ficha de trabalho incidindo sobre:
 
 -   RGPD,
 - Data Protection Impact Assessment (DPIA).
+
+
+## Semana 10 - 04/Mai/2021
+
+**Teórica**:
+
+-   Segurança de software
+    - Vulnerabilidade de Buffer overflow
+    - Vulnerabilidade de inteiros
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de Buffer overflow
+-   Vulnerabilidade de inteiros
+
