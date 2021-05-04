@@ -144,13 +144,13 @@ Neste projeto a componente de emissão de certificados, CRL e OCSP deve ser base
 
 **Projeto a efetuar por Grupo 7.**
 
-Neste projeto a componente de emissão de certificados, CRL e OCSP deve ser baseado em [Dogtag](https://www.dogtagpki.org/wiki/PKI_Main_Page). Para a componente de emissão de timestamp deve utilizar a [BouncyCastle Crypto API](https://www.bouncycastle.org) (de modo a ser mais simples essa implementação, pode ver como tal é efetuado no [TimeStampResponder-CSharp](https://github.com/JemmyLoveJenny/TimeStampResponder-CSharp)).
+Neste projeto a componente de emissão de certificados, CRL e OCSP deve ser baseado em [Dogtag](https://www.dogtagpki.org/wiki/PKI_Main_Page) - ver também [github](https://github.com/dogtagpki/pki) -. Para a componente de emissão de timestamp deve utilizar a [BouncyCastle Crypto API](https://www.bouncycastle.org) (de modo a ser mais simples essa implementação, pode ver como tal é efetuado no [TimeStampResponder-CSharp](https://github.com/JemmyLoveJenny/TimeStampResponder-CSharp)).
 
 ### 2.4 Baseado em Dogtag e rfc3161timestampingserver
 
 **Projeto a efetuar por Grupo 8.**
 
-Neste projeto a componente de emissão de certificados, CRL e OCSP deve ser baseado em [Dogtag](https://www.dogtagpki.org/wiki/PKI_Main_Page). A componente de emissão de timestamp deve ser baseada em [rfc3161timestampingserver](https://github.com/elbosso/rfc3161timestampingserver).
+Neste projeto a componente de emissão de certificados, CRL e OCSP deve ser baseado em [Dogtag](https://www.dogtagpki.org/wiki/PKI_Main_Page) - ver também [github](https://github.com/dogtagpki/pki) -. A componente de emissão de timestamp deve ser baseada em [rfc3161timestampingserver](https://github.com/elbosso/rfc3161timestampingserver).
 
 
 ### 2.5 Baseado em xipki e BouncyCastle
