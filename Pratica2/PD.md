@@ -89,6 +89,10 @@ Adicionalmente, deve guardar configuração e dados de utilizadores, de modo que
 
 Todas estas novas características devem alterar o mínimo o código fonte existente, de modo ao código desenvolvido poder ser utilizado com futuras versões da DSS Demo WebApp. Devem também ficar bem identificadas as alterações ao código fonte existente. 
 
+Nota 1: O applicationID e WSDL para utilização da Chave Móvel Digital encontra-se no código do projeto dos seus colegas do ano passado, que deve reutilizar dentro do que for possível.
+
+Nota 2: Para testar a Chave Móvel Digital necessita de a ativar (componente de autenticação e assinatura) em https://www.autenticacao.gov.pt/. 
+
 
 ### 1.3 DSS Demo WebApp 3
 
@@ -104,6 +108,10 @@ Com este projeto pretende-se alterar a DSS Demo WebApp, de modo a:
 Adicionalmente, deve guardar configuração e dados de utilizadores, de modo que quando façam login na DSS WebApp, possam utilizar os seus dados de autenticação perante a Chave Móvel Digital, nas várias operações relevantes disponibilizadas pela DSS WebApp.
 
 Todas estas novas características devem alterar o mínimo o código fonte existente, de modo ao código desenvolvido poder ser utilizado com futuras versões da DSS Demo WebApp. Devem também ficar bem identificadas as alterações ao código fonte existente. 
+
+Nota 1: O applicationID e WSDL para utilização da Chave Móvel Digital encontra-se no código do projeto dos seus colegas do ano passado, que deve reutilizar dentro do que for possível.
+
+Nota 2: Para testar a Chave Móvel Digital necessita de a ativar (componente de autenticação e assinatura) em https://www.autenticacao.gov.pt/. 
 
 
 ## 2. Projetos de tipo 2 - Plataforma de emissão de certificados, com CRL, OCSP e timestamp
