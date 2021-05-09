@@ -149,3 +149,17 @@ Ficha de trabalho incidindo sobre:
 -   Vulnerabilidade de Buffer overflow
 -   Vulnerabilidade de inteiros
 
+
+## Semana 11 - 11/Mai/2021
+
+**Teórica**:
+
+-   Segurança de software
+    - Validação de input
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Validação de input
+

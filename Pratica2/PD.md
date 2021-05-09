@@ -22,19 +22,21 @@ O objetivo destes projetos de desenvolvimento não é aprender a programar (esse
 + Seguir o standard de verificação de segurança de aplicações ([OWASP _Application Security Verification Standard_](https://github.com/OWASP/ASVS)), no desenvolvimento do projeto;
 + Utilizar [ferramentas de análise de impacto da proteção de dados](https://www.cnil.fr/en/privacy-impact-assessment-pia) (PIA - _Privacy Impact Assessment_), de modo a demonstrar compliance com o RGPD (Regulamento Geral de Proteção de Dados).
 
-Na aula 5 foi pedido para:
+Na **aula 5** foi pedido para:
 
 + Utilizar o ciclo de melhoria contínua do SAMM, aplicada ao projeto de desenvolvimento de software que o seu grupo está a desenvolver. A resposta às perguntas da secção 2 da ficha de trabalho dessa aula, para além de serem respondidas no âmbito da ficha de trabalho, devem também ser adicionadas como anexo ao relatório do projeto de desenvolvimento;
 + Seguir as fases do [Microsoft _Security Development Lifecycle_ (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl) que forem relevantes para o seu projeto de desenvolvimento, indicando (no relatório do projeto de desenvolvimento) o que foi feito em relação a cada uma delas.
 
-Na segunda parte da aula 7 (<https://vm4.devisefutures.com/EngSeg2021/2021.Aula7.2.mp4>) é dada mais alguma informação sobre as práticas do [Microsoft _Security Development Lifecycle_ (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl), e quais as práticas mais importantes para que devem olhar (e incluir no relatório do projeto de desenvolvimento).
+Na segunda parte da **aula 7** (<https://vm4.devisefutures.com/EngSeg2021/2021.Aula7.2.mp4>) é dada mais alguma informação sobre as práticas do [Microsoft _Security Development Lifecycle_ (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl), e quais as práticas mais importantes para que devem olhar (e incluir no relatório do projeto de desenvolvimento).
 
-Na aula 9 foi pedido para:
+Na **aula 9** foi pedido para:
 
 + Avaliar como o seu projeto de desenvolvimento de software se enquadra nos nove critérios que devem ser considerados para avaliar se o processamento de dados pessoais resulta num risco elevado.
 + Utilizar a ferramenta DPIA do CNIL, no contexto do seu projeto de desenvolvimento de software.
 
-Na aula 10 falou-se sobre vulnerabilidade de _Buffer overflow_ e sobre vulnerabilidade de inteiros, e em cada uma das partes dessa aula foram indicadas regras de programação defensiva para reduzir essas vulnerabilidades. Notem que é esperado que no relatório deste PD identifiquem como enquadraram essas regras no  desenvolvimento do projeto.
+Na **aula 10** falou-se sobre vulnerabilidade de _Buffer overflow_ e sobre vulnerabilidade de inteiros, e em cada uma das partes dessa aula foram indicadas regras de programação defensiva para reduzir essas vulnerabilidades. Notem que é esperado que no relatório deste PD identifiquem como enquadraram essas regras no  desenvolvimento do projeto.
+
+Na **aula 11** falou-se sobre validação de input, e  foram indicadas regras de programação defensiva para reduzir potenciais vulnerabilidades. Notem que é esperado que no relatório deste PD identifiquem como enquadraram essas regras no  desenvolvimento do projeto.
 
 ## 1. Projetos de tipo 1 - Utilização/integração de ferramentas disponibilizadas no âmbito do Digital Signature Services (DSS)
 
