@@ -17,11 +17,11 @@ Caso opte por utilizar a imagem Docker, para **instalar o docker no seu computad
 
 **Nota:** Sempre que nos exercícios abaixo lhe for pedido para utilizar o **WebGoat**, deve executar os seguintes passos:
 
-1. Garantir que já instalou o docker no seu computador (_standalone_ ou docker).
+1. Garantir que já instalou o WebGoat no seu computador (_standalone_ ou docker).
 
-2. Instalar e arrancar o WebGoat de acordo com as instruções em <https://github.com/WebGoat/WebGoat>
+2. Arrancar o WebGoat de acordo com as instruções em <https://github.com/WebGoat/WebGoat>
 
-> Note que o WebGoat demora 30 - 50 segundos a arrancar.
+> Note que o WebGoat pode demorar 30 - 50 segundos a arrancar.
 
 
 ## Exercícios
