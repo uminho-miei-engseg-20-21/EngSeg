@@ -163,3 +163,19 @@ Ficha de trabalho incidindo sobre:
 
 -   Validação de input
 
+
+## Semana 12 - 18/Mai/2021
+
+**Teórica**:
+
+- Riscos de segurança em aplicações Web (OWASP Top 10)
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- _Injection_
+- XSS
+- Quebra na Autenticação
+- Componentes Vulneráveis
