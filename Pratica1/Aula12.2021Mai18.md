@@ -21,6 +21,8 @@ Caso opte por utilizar a imagem Docker, para **instalar o docker no seu computad
 
 2. Arrancar o WebGoat de acordo com as instruções em <https://github.com/WebGoat/WebGoat>
 
+> **Recomenda-se que instale o docker**, já que o WebGoat _standalone_ (jar) pode abrir vulnerabilidades na sua máquina.
+
 > Note que o WebGoat pode demorar 30 - 50 segundos a arrancar.
 
 
@@ -38,7 +40,7 @@ Aceda a <https://app.hackedu.com/demo> e siga o exemplo de _SQL Injection_.
 
 #### Pergunta 1.1 - _SQL Injection_
 
-No WebGoat siga a lição _(A1) Injection > SQL Injection (jntro)_.
+No WebGoat siga a lição _(A1) Injection > SQL Injection (intro)_.
 Indique o que foi fazendo em cada um dos passos e qual o resultado.
 
 
@@ -74,7 +76,7 @@ Em todos os passos tente primeiro resolver sem ajuda. Se chegar a um ponto em qu
 
 ### 4\. Componentes vulneráveis
 
-#### Pergunta 4.1 - _Vulnerable components_
+#### Experiência 4.1 - _Vulnerable components_
 
 No WebGoat siga a lição _(A9) Vulnerable Components_.
 
