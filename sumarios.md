@@ -6,6 +6,10 @@
 
 **Prática**: Apresentação dos trabalhos de Laboratórios Integrados.
 
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
 
 ## Semana 2 - 02/Mar/2021
 
@@ -26,6 +30,12 @@ Ficha de trabalho incidindo sobre:
 -   Authenticated encryption;
 -   Algoritmos e tamanho de chaves.
 
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
+
 ## Semana 3 - 09/Mar/2021
 
 
@@ -45,6 +55,11 @@ Ficha de trabalho incidindo sobre:
 -   SSH
 
 
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
+
 ## Semana 4 - 16/Mar/2021
 
 
@@ -60,6 +75,10 @@ Ficha de trabalho incidindo sobre:
 Ficha de trabalho incidindo sobre:
 
 -   TOR
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
 
 
 ## Semana 5 - 23/Mar/2021
@@ -82,6 +101,11 @@ Ficha de trabalho incidindo sobre:
 - Secure Software Development Lifecycle (S-SDLC)
 - Modelo de Maturidade no projeto de desenvolvimento de Software
 
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
+
 ## Semana 6 - 06/Abr/2021
 
 **Teórica**:
@@ -95,6 +119,10 @@ Ficha de trabalho incidindo sobre:
 Ficha de trabalho incidindo sobre:
 
 - Blockchain
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
 
 
 ## Semana 7 - 13/Abr/2021
@@ -114,10 +142,18 @@ Ficha de trabalho incidindo sobre:
 
 -   Vulnerabilidade de codificação
 
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
 
 ## Semana 8 - 20/Abr/2021
 
 Apresentação do Projeto de Análise (PA) efetuado pelos Grupos de Trabalho.
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
 
 
 ## Semana 9 - 27/Abr/2021
@@ -132,6 +168,10 @@ Ficha de trabalho incidindo sobre:
 
 -   RGPD,
 - Data Protection Impact Assessment (DPIA).
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
 
 
 ## Semana 10 - 04/Mai/2021
@@ -149,6 +189,10 @@ Ficha de trabalho incidindo sobre:
 -   Vulnerabilidade de Buffer overflow
 -   Vulnerabilidade de inteiros
 
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
 
 ## Semana 11 - 11/Mai/2021
 
@@ -163,6 +207,10 @@ Ficha de trabalho incidindo sobre:
 
 -   Validação de input
 
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
 
 ## Semana 12 - 18/Mai/2021
 
@@ -179,3 +227,22 @@ Ficha de trabalho incidindo sobre:
 - XSS
 - Quebra na Autenticação
 - Componentes Vulneráveis
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
+
+## Semana 13 - 25/Mai/2021
+
+**Teórica**:
+
+- OWASP _Application Security Verification Standard_ 
+
+
+**Prática**:
+
+Trabalho de "Projeto de Desenvolvimento", incluindo algumas considerações sobre a sua entrega.
+
+**Reuniões**:
+
+Reunião individual com os vários grupos de trabalho.
