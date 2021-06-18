@@ -1,21 +1,21 @@
 # Avaliação prática 2 - Projeto de desenvolvimento (PD)
 
-De seguida são apresentados os vários projetos de desenvolvimento. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 22/06/2021, na subdiretoria "AP2-PD". **Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**.
+De seguida são apresentados os vários projetos de desenvolvimento. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 24/06/2021, na subdiretoria "AP2-PD". **Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**.
 
-A apresentação e discussão do trabalho será efetuada no dia 28/06/2021 (em https://us02web.zoom.us/j/88493987996?pwd=OGdIN3BNTm9sNnc0akpYYm5NeXR2UT09), no seguinte horário:
+A apresentação e discussão do trabalho será efetuada no dia 29/06/2021 (em https://us02web.zoom.us/j/88493987996?pwd=OGdIN3BNTm9sNnc0akpYYm5NeXR2UT09), no seguinte horário:
 
-+ Grupo 1 - 14h00
-+ Grupo 2 - 14h20
-+ Grupo 3 - 14h40
-+ Grupo 4 - 15h00
-+ Grupo 5 - 15h20
-+ Grupo 6 - 15h40
-+ Grupo 7 - 16h00
-+ Grupo 8 - 16h20
-+ Grupo 9 - 16h40
-+ Grupo 10 - 17h00
-+ Grupo 11 - 17h20
-+ Grupo 12 - 17h40
++ Grupo 1 - 09h00
++ Grupo 2 - 09h20
++ Grupo 3 - 09h40
++ Grupo 4 - 10h00
++ Grupo 5 - 10h20
++ Grupo 6 - 10h40
++ Grupo 7 - 11h00
++ Grupo 8 - 11h20
++ Grupo 9 - 11h40
++ Grupo 10 - 12h00
++ Grupo 11 - 12h20
++ Grupo 12 - 12h40
 
 
 Note que o projeto de desenvolvimento, para além do desenvolvimento em si, inclui componentes de:
