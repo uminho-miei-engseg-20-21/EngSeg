@@ -1,6 +1,11 @@
 # Avaliação prática 2 - Projeto de desenvolvimento (PD)
 
-De seguida são apresentados os vários projetos de desenvolvimento. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 24/06/2021, na subdiretoria "AP2-PD". **Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**.
+De seguida são apresentados os vários projetos de desenvolvimento. 
+
+
+## Época normal
+
+O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 24/06/2021, na subdiretoria "AP2-PD". **Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**.
 
 A apresentação e discussão do trabalho será efetuada no dia 29/06/2021 (em https://us02web.zoom.us/j/88493987996?pwd=OGdIN3BNTm9sNnc0akpYYm5NeXR2UT09), no seguinte horário:
 
@@ -25,6 +30,20 @@ Note que o projeto de desenvolvimento, para além do desenvolvimento em si, incl
 + _Compliance_ com boas práticas de desenvolvimento.
 
 Para algumas destas componentes terão que entregar um relatório no âmbito das fichas de trabalho (avaliação prática 1), na sequência de aulas teóricas sobre o tema. Esses relatórios farão parte do relatório final do projeto de desenvolvimento.
+
+## Época especial
+
+O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao final do dia 25/07/2021, na subdiretoria "AP2-PDespecial". **Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**.
+
+A apresentação e discussão do trabalho será efetuada no dia 28/07/2021 (em https://us02web.zoom.us/j/84782523618?pwd=SnRUU1IrWTgvUjZrdWxCOFlWSUJqQT09), no seguinte horário:
+
++ Grupo 8 - 14h30
+
+Note que o projeto de desenvolvimento, para além do desenvolvimento em si, inclui componentes de:
+
++ Identificação do “_Software Assurance Maturity Model_ (SAMM)” da equipa - será mantida a nota da época normal, no âmbito das fichas de trabalho -, 
++ RGPD PIA - será mantida a nota da época normal, no âmbito das fichas de trabalho -, e
++ _Compliance_ com boas práticas de desenvolvimento.
 
 ## Objectivos
 
