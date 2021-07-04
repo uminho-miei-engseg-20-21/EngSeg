@@ -153,6 +153,7 @@ As hierarquias configuradas devem ser similares às do Cartão de Cidadão e da 
 ### 2.1 Baseado em linha de comando openssl
 
 **Projeto a efetuar por Grupo 10.**
+**Projeto a efetuar por Grupo 8 - época especial.**
 
 Neste projeto, a componente de emissão de certificados, CRL, OCSP e timestamp deve ser baseado na linha de comando openssl. 
 Note que para os perfis dos certificados pode tirar partido dos ficheiros de configuração do openssl.
