@@ -45,3 +45,15 @@ O template para documento de dissertação, referido acima, já reflete as fases
   + aplicação - aplicação do trabalho desenvolvido/elaborado, que pode incluir exemplos e casos de estudo;
   + conclusões e trabalho futuro - considerações finais sobre o trabalho efetuado, assim como ideias sobre como o trabalho pode evoluir no futuro (com vista a melhorar o que foi feito ou a resolver novos/outros problemas).
 
+
+## 2.5 Elaboração do documento da tese
+
+No final da tese, o mestrando é avaliado por um jurí composto por arguentes da Universidade do Minho e por arguente de uma Universidade externa. A nota final é decidida por acordo dos elementos do jurí, mas normalmente tem um peso maior a nota que o arguente externo propuser.
+
+Relembro que o mais provável é os arguentes não terem acompanhado o desenrolar da tese, pelo que a nota final é dada com base em:
+
++ documento escrito da dissertação, que todos os arguentes recebem cerca de um mês antes da arguência,
++ apresentação de 15-20 minutos efetuada pelo mestrando,
++ resposta a perguntas efetuadas pelo vários arguentes, durante 30-40 minutos.
+
+Penso que facilmente inferem a importência do documento escrito da dissertação, pelo que deverá ser escrito de forma a ser de fácil leitura e compreensão. É pela leitura deste documento que os arguentes ficam com a primeira impressão do vosso trabalho, e se essa impressão não for boa, vai ser dificil desfazê-la na apresentação e nas respostas às perguntas.
